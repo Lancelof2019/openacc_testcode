@@ -1,4 +1,4 @@
-tream>
+#include<iostream>
 #include<openacc.h>
 #define N 50
 
